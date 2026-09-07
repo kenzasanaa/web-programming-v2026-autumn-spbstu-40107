@@ -37,11 +37,20 @@ body {
   width: 200px;
   height: 150px;
   background-color: #ddd;
+  display: block;
 }
 
-.product-image {
-  width: 200px;
-  height: 150px;
-  background-color: #ddd;
-  display: block;
+.product-title {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+.product-description {
+  font-family: Arial;
+  font-size: 14px;
+  text-align: center;
+  color: #666;
 }
