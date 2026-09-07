@@ -39,7 +39,6 @@ body {
   background-color: #ddd;
 }
 
-/* stylelint-disable font-family-no-missing-generic-family-keyword */
 .product-title {
   font-family: Arial;
   font-size: 18px;
